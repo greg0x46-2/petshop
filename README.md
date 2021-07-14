@@ -2,6 +2,13 @@
 
 - Iniciando servidor php: `` php -S 127.0.0.1:8080 -t public ``
 
+## GIT
+
+### Subir algo para o git: 
+`` git add . `` 
+`` git commit -m "alguma mensagem aqui" `` 
+`` git push origin amanda ``
+
 ## MVC
 
 **Model** = A responsabilidade dos models é representar o negócio. Também é responsável pelo acesso e manipulação dos dados na sua aplicação. 
