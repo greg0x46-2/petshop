@@ -9,6 +9,11 @@
 `` git commit -m "alguma mensagem aqui" `` 
 `` git push origin amanda ``
 
+## Composer
+
+**Instalar dependências**
+``composer install``
+
 ## MVC
 
 **Model** = A responsabilidade dos models é representar o negócio. Também é responsável pelo acesso e manipulação dos dados na sua aplicação. 
